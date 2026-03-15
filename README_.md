@@ -1,4 +1,4 @@
-# WeatherMind - AI 天气助手智能体
+# WeatherMind - 知天
 
 ## 📋 项目概述
 
